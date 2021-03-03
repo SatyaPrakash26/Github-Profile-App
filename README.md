@@ -1,4 +1,4 @@
-# Github-Profile-App📱💻👨‍⚖️👩‍⚖️
+# Github-Profile-App👨‍⚖️👩‍⚖️
 A simple website where we can search the profile of GitHub users by their username.
 
 ## View:
@@ -13,4 +13,4 @@ https://satyaprakash26.github.io/Github-Profile-App/
 3. We can click on the repos links to go to the respective repos.
 
 ## A Glimpse of how it looks📱💻 and works:
-![preview](https://user-images.githubusercontent.com/68632303/109850368-71acc580-7c78-11eb-8b74-3a19b77f8fd8.gif)
+![preview](https://user-images.githubusercontent.com/68632303/109850714-d1a36c00-7c78-11eb-993b-2450af0cff60.gif)
